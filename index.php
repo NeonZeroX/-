@@ -246,7 +246,7 @@
 </div>
 
 <center>
-  <h3 class="mapss">* ที่อยู่ *</h3>
+  <h3 class="mapss">" ที่อยู่ "</h3>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15777.574108853654!2d99.89324799852577!3d8.654071027921313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3053a08eaaaaaaab%3A0x76573930b86af8e3!2sWalai%20Lak%20Universities!5e0!3m2!1sth!2sth!4v1639128227381!5m2!1sth!2sth" 
 width="65%" height="400" style="border:3;" allowfullscreen="" loading="lazy" ></iframe>
